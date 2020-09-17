@@ -1,7 +1,7 @@
 # Classifying the moods of songs
 **General Assembly Data Science Immersive - final Capstone Project** 
 
-The purpose of the project is to create a machine learning classifier which prdicts the mood of a song - specifically, using Audiofiles library of mood grouped sounds.
+The purpose of the project is to create a machine learning classifier which predicts the mood of a song - specifically, using Audiofiles library of mood grouped sounds.
 
 ## Background and problem statement
 We often see individuals run projects on classifying genres of music, and whilst I personally find this interesting, I feel that we don't always choose to listen to music based on genres.
