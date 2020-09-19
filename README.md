@@ -28,7 +28,7 @@ A spectrogram is a visual representation of an audio frequency over a period of 
 4. Baseline - 34.12%
 
 ## Conclusion
-This project 
+As you can see from above, my scores performed better than the baseline, though these models need to be improved before one can confidently apply this to something pracitcal like a reccomendation system based on mood.
 
 ## Key tools for this project
 - NumPy, Pandas, Matplotlib, scikit-learn, Seaborn 
