@@ -21,6 +21,15 @@ A spectrogram is a visual representation of an audio frequency over a period of 
 4. Perform necessary EDA and pre-processing.
 5. Run classification models to predict the moods of songs.
 
+## Classifiers & Accuracy Scores:
+1. Logistic Regression - 59%
+2. Support Vector Machines - 49.1%
+3. Random Forests - 57.3%
+4. Baseline - 34.12%
+
+## Conclusion
+This project 
+
 ## Key tools for this project
 - NumPy, Pandas, Matplotlib, scikit-learn, Seaborn 
 - Moviepy, scipy.io, Librosa
