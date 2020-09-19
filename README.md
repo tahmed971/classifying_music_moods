@@ -11,8 +11,8 @@ This project aims to do this.
 A challenge many find regarding this is that it's harder to find data available for music grouped by mood compared to genres. Many are able to turn to Spotify, YouTube and other platforms to pull songs based on genres though this is harder to find for moods.
 Fortunately Audioset has a large library of YouTube id's grouped by seven mooods (happy, funny, sad, tender, exciting, angry, scary).
 
-In addition, I was keen to explore weather using features from spectrograms would provide an accurate model for analysis.
-A spectrogram is a visual representation of an audio frequency over a period of time. Many use these for assessing things like heart-beat abnormalities though this technique is increasingly being used within the music sphere.
+In addition, I was keen to explore whether using features from spectrograms would provide an accurate model for analysis.
+A spectrogram is a visual representation of an audio frequency over a period of time. Many use these for assessing things like heart-beat abnormalities though this technique is being increasingly used within the music sphere.
 
 ## Objectives
 1. Find a list of song names tagged to a mood(s).
