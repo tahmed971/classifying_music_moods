@@ -17,7 +17,7 @@ A spectrogram is a visual representation of an audio frequency over a period of 
 ![spec_pic](spec_pic.png)
 
 ## Objectives
-1. Find a list of song names tagged to a mood(s).
+1. Find a list of song names tagged to a mood(s). (https://research.google.com/audioset/ontology/music_mood_1.html)
 2. Identify music from the data.
 3. Extract new features from music to create new data.
 4. Perform necessary EDA and pre-processing.
