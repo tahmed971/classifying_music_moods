@@ -1,8 +1,6 @@
 # Classifying the moods of songs
 **General Assembly Data Science Immersive - final Capstone Project** 
 
-![spec_pic](spec_pic.png)
-
 The purpose of the project is to create a machine learning classifier which predicts the mood of a song - specifically, using Audiofiles library of mood grouped sounds.
 
 ## Background and problem statement
@@ -15,6 +13,8 @@ Fortunately Audioset has a large library of YouTube id's grouped by seven moods 
 
 In addition, I was keen to explore whether using features from spectrograms would provide an accurate model for analysis.
 A spectrogram is a visual representation of an audio frequency over a period of time. Many use these for assessing things like heart-beat abnormalities though this technique is being increasingly used within the music sphere.
+
+![spec_pic](spec_pic.png)
 
 ## Objectives
 1. Find a list of song names tagged to a mood(s).
