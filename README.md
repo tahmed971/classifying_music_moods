@@ -17,11 +17,11 @@ A spectrogram is a visual representation of an audio frequency over a period of 
 ![spec_pic](spec_pic.png)
 
 ## Objectives
-1. Find a list of song names tagged to a mood(s). (https://research.google.com/audioset/ontology/music_mood_1.html)
+1. Find a list of song names tagged to a mood(s) - https://research.google.com/audioset/ontology/music_mood_1.html
 2. Identify music from the data.
-3. Extract new features from music to create new data.
+3. Extract new features from music to create new data - https://github.com/tahmed971/classifying_music_moods/blob/master/Capstone_Spectrograms_CreateDF.ipynb
 4. Perform necessary EDA and pre-processing.
-5. Run classification models to predict the moods of songs.
+5. Run classification models to predict the moods of songs - https://github.com/tahmed971/classifying_music_moods/blob/master/Capstone_Spectrograms_Modelling.ipynb
 
 ## Classifiers & Accuracy Scores:
 1. Logistic Regression - 59%
