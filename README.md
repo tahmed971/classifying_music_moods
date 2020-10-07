@@ -39,7 +39,3 @@ As you can see from above, my scores performed better than the baseline, though 
 One of the challenges with extracting spectral features from a sound was that many of the features were returned  as a matrix instead of individual values. This meant I had to find a way to aggregate each cell, eventually deciding to use the numpy.ravel() function to flatten each array, followed by the use of aggregate functions. 
 
 As a next step, I'm going to use an image recognition model within a Convolutional Neural Network to analyse each song's spectrogram image to optimistically improve my accuracy, precision and recall.
-
-## Key tools for this project
-- NumPy, Pandas, Matplotlib, scikit-learn, Seaborn 
-- Moviepy, scipy.io, Librosa
