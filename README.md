@@ -3,6 +3,10 @@
 
 The purpose of the project is to create a machine learning classifier which predicts the mood of a song - specifically, using Audiofiles library of mood grouped sounds.
 
+## Key tools for this project
+- NumPy, Pandas, Matplotlib, scikit-learn, Seaborn 
+- Moviepy, scipy.io, Librosa
+
 ## Background and problem statement
 We often see individuals run projects on classifying genres of music, and whilst I personally find this interesting, I feel that we don't always choose to listen to music based on genres.
 Often individuals and groups listen to music based on their mood, so why not attempt to classify off this instead?
